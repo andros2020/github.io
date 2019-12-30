@@ -1,0 +1,5 @@
+<svg id="svgpurpball" height="200"
+xmlns="http://www.w3.org/2000/svg">
+<circle id="purpball" cx="40" cy="40"
+r="40" fill="purple" />
+</svg>

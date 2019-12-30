@@ -1,0 +1,115 @@
+* {
+   box-sizing: border-box;
+   margin:0;
+   padding:0;
+}
+
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+    background-color: #ffc;
+    margin: 20px;
+    padding: 0;
+}
+
+/* This is a comment, by the way */
+
+p {
+    line-height: 1.5rem;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #900;
+    font-size: 2rem;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5rem;
+    border-bottom-color: #c00;
+}
+.ueberschrift1{
+    text-transform: uppercase;
+}
+#seitenTitel{
+    text-shadow 0 0 5px 5px blue;
+}
+
+h2 {
+    color: white;
+    background-color: #090;
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+h3 {
+    color: #999;
+    font-size: 1.2rem;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+ul ol {
+	margin-left: 2rem;
+
+}
+
+ul, ol {
+	margin-left: 1rem;
+}
+
+li {
+    color: #900;
+    font-style: italic;
+		    line-height: 1.5rem;
+
+}
+
+table {
+    background-color: #ccc;
+}
+
+table tr:first-child{
+    background-color: #333333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
